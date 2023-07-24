@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "anyformatkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/luximetr/AnyFormatKit.git",
+      "state" : {
+        "revision" : "ae3a965164005b07f81d6aa066520d7ad14ea54e",
+        "version" : "2.5.2"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "c1f60c63f356d364f4284ba82961acbe7de79bcc",
+        "version" : "7.8.1"
+      }
+    },
+    {
+      "identity" : "ribs",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/uber/RIBs",
+      "state" : {
+        "revision" : "5835f8e5b37865cd83d5baaef4e92aad94022b8a",
+        "version" : "0.15.1"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift",
+      "state" : {
+        "revision" : "9dcaa4b333db437b0fbfaf453fad29069044a8b4",
+        "version" : "6.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
